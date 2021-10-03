@@ -37,3 +37,8 @@ Created a mentorship-eligibility table that holds the current employees who were
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 * About 90,398 will be needed to be filled as the  "silver tsunami"  begins to make an impact.
+
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+*	There will not be enough because of the total number (1,940) of retirement-ready employees in the departments.
