@@ -12,3 +12,8 @@ Created SQL queries of a  Retirement Titles table that holds all the titles of c
 ![dv1](https://user-images.githubusercontent.com/58860105/135766544-b838edc6-869c-43eb-a9b0-bc116b7fca27.PNG)
 
 ![Dv1 1](https://user-images.githubusercontent.com/58860105/135766622-798c52b2-8c15-46e6-ae20-95064b7b67ec.PNG)
+
+
+
+## Deliverable 2: The Employees Eligible for the Mentorship Program.
+Created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965, and December 31, 1965.
