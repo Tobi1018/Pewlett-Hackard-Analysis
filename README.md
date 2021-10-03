@@ -35,4 +35,5 @@ Created a mentorship-eligibility table that holds the current employees who were
 
 ## Summary
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-		* About 90,398 will be needed to be filled as the  "silver tsunami"  begins to make an impact.
+
+* About 90,398 will be needed to be filled as the  "silver tsunami"  begins to make an impact.
