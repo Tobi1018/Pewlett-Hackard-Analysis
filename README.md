@@ -13,6 +13,8 @@ Created SQL queries of a  Retirement Titles table that holds all the titles of c
 
 ![Dv1 1](https://user-images.githubusercontent.com/58860105/135766622-798c52b2-8c15-46e6-ae20-95064b7b67ec.PNG)
 
+![dv1 2](https://user-images.githubusercontent.com/58860105/135766691-ff7284c1-f930-4dfa-8ff1-f0fadeca7462.PNG)
+
 
 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program.
